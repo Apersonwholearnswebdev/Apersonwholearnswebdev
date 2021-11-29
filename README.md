@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Apersonwholearnswebdev
+- 👀 I’m interested in Web!
+- 🌱 I’m currently learning Web Development.
+- 💞️ I’m looking to collaborate on i dont want to.
+- 📫 How to reach me.... just email me!
